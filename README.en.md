@@ -1,36 +1,35 @@
 # Java-Packages
 
-#### Description
-Java package relevant docs, source code and issue management.
+## Description
 
-#### Software Architecture
-Software architecture description
+Java package relevant tools, source code、macros and guidance docs.
 
-#### Installation
+## Software Architecture
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+n/a
 
-#### Instructions
+## Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+n/a
 
-#### Contribution
+## Instructions
+
+n/a
+
+## Contribution
+
+You are welcome to participate in the discussion of the issues and contribute to the PR.
+
+### Basic Procedure
 
 1.  Fork the repository
 2.  Create Feat_xxx branch
 3.  Commit your code
 4.  Create Pull Request
 
+### Git and RP Guider
 
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. https://gitee.com/openeuler/community/blob/master/zh/contributors/Gitee-workflow.md
+2. https://gitee.com/openeuler/community/blob/master/zh/contributors/pull-request.md
+3. https://gitee.com/openeuler/community/blob/master/zh/sig-infrastructure/command.md
+4. https://gitee.com/openeuler/community/blob/master/zh/contributors/pull-requests.md
