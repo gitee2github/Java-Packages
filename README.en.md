@@ -2,7 +2,13 @@
 
 ## Description
 
-Java package relevant tools, source code、macros and guidance docs.
+This repository serves as the entry point repository for the Java SIG and is used as a repository for the openEuler community's Java packaging-related code, macros, tools, and guidelines. In addition, we identify packages to be maintained in the following categories.
+
+1. Java build tool ontology packages, such as `maven` `gradle` and so on. 
+2. Java build tool-related derivative packages, such as `maven_local` and so on. 
+3. Java packages on which above Java build tool depends. 
+4. Java packages, and the Java packages on which they depend.
+5. Java packages, and the specialized packages on which they depend (specifically to support the Java software).
 
 ## Software Architecture
 
