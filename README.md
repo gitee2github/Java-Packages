@@ -4,7 +4,7 @@
 
 该仓库作为 Java SIG 的入口仓库，用于存放 openEuler 社区 Java 打包相关代码、宏、工具，以及指引文档。此外，我们明确需要维护的软件包分为如下几类：
 
-1. Java 构建工具本体软件包，例如 `maven` `gradle` 等。
+1. Java 构建工具本体软件包，例如 `maven` `gradle` `ant` 等。
 2. Java 构建工具相关衍生软件包，例如 `maven_local` 等。
 3. Java 构建工具所依赖的 Java 软件包。
 4. Java 软件包，及其所依赖的 Java 软件包。
