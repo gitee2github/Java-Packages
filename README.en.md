@@ -39,3 +39,11 @@ You are welcome to participate in the discussion of the issues and contribute to
 2. https://gitee.com/openeuler/community/blob/master/zh/contributors/pull-request.md
 3. https://gitee.com/openeuler/community/blob/master/zh/sig-infrastructure/command.md
 4. https://gitee.com/openeuler/community/blob/master/zh/contributors/pull-requests.md
+
+### Notes on software packaging pull request checking
+
+1. Check whether the automatic check program is passed, if not, it is not allowed to merge;
+2. Understand the function of software package and evaluate whether it belongs to java package, that is, it conforms to the scope of software package that needs to be maintained in the above introduction. In case of doubt, it is necessary to discuss the ownership of software package before deciding whether to allow merging.
+
+
+
