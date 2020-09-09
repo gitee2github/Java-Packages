@@ -40,3 +40,10 @@
 2. https://gitee.com/openeuler/community/blob/master/zh/contributors/pull-request.md
 3. https://gitee.com/openeuler/community/blob/master/zh/sig-infrastructure/command.md
 4. https://gitee.com/openeuler/community/blob/master/zh/contributors/pull-requests.md
+
+### 软件包提交PR审核注意事项
+
+1. 检查门禁程序是否通过，不通过则不允许合并；
+2. 了解软件包作用，评估是否应属于Java-Packages，即符合上述介绍中明确需要维护的软件包范围，如遇疑问，可与其他maintainer讨论软件包归属后再决定是否允许合并。
+
+
