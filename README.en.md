@@ -43,7 +43,7 @@ You are welcome to participate in the discussion of the issues and contribute to
 ### Notes on software packaging pull request checking
 
 1. Check whether the automatic check program is passed, if not, it is not allowed to merge;
-2. Understand the function of software package and evaluate whether it belongs to java package, that is, it conforms to the scope of software package that needs to be maintained in the above introduction. In case of doubt, it is necessary to discuss the ownership of software package before deciding whether to allow merging.
+2. Understand the function of software and evaluate whether it belongs to Java-Packages, that is, it conforms to the scope of software that needs to be maintained in the above introduction. In case of doubt, you can discuss with other maintainers before deciding whether to allow merging.
 
 
 
