@@ -43,7 +43,16 @@ You are welcome to participate in the discussion of the issues and contribute to
 ### Notes on software packaging pull request checking
 
 1. Check whether the automatic check program is passed, if not, it is not allowed to merge;
-2. Understand the function of software and evaluate whether it belongs to Java-Packages, that is, it conforms to the scope of software that needs to be maintained in the above introduction. In case of doubt, you can discuss with other maintainers before deciding whether to allow merging.
+2. Understand the function of software and evaluate whether it belongs to Java-Packages, that is, it conforms to the scope of software that needs to be maintained in the above introduction. In case of doubt, you can discuss with other maintainers before deciding whether to allow merging;
+3. Note if there are special codes in the spec file, such as "fedora" or "rhel" information, click [here] [suspected_spec] to view the relevant issue, in case of this type of issue please confirm with the pr committers before deciding whether to allow merging.
 
+### Learning materials
+
+1. [RPM Documentation][rpm_doc]
+2. [Check scripts for information such as URL and source in spec file, check scripts for license file][spec_check_file]
+
+[rpm_doc]: http://rpm.org/documentation
+[suspected_spec]: https://gitee.com/openeuler/Java-Packages/issues/I1UL4S?from=project-issue
+[spec_check_file]: https://gitee.com/openeuler/Java-Packages/attach_files
 
 
