@@ -51,8 +51,8 @@ You are welcome to participate in the discussion of the issues and contribute to
 1. [RPM Documentation][rpm_doc]
 2. [Check scripts for information such as URL and source in spec file, check scripts for license file][spec_check_file]
 
-[rpm_doc](http://rpm.org/documentation)
-[suspected_spec](https://gitee.com/openeuler/Java-Packages/issues/I1UL4S?from=project-issue)
-[spec_check_file](https://gitee.com/openeuler/Java-Packages/attach_files)
+[rpm_doc]: http://rpm.org/documentation
+[suspected_spec]: https://gitee.com/openeuler/Java-Packages/issues/I1UL4S?from=project-issue
+[spec_check_file]: https://gitee.com/openeuler/Java-Packages/attach_files
 
 
